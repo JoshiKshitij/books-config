@@ -2,3 +2,6 @@ message: this is book-service.yml dev
 app:
   config:
     name: book-service-config
+
+server:
+  port: 8082    

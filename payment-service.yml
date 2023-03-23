@@ -2,3 +2,6 @@ message: this is payment-service.yml dev
 app:
   config:
     name: payment-service-config
+
+server:
+  port: 8081
