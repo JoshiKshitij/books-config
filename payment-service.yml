@@ -1,0 +1,4 @@
+message: this is payment-service.yml dev
+app:
+  config:
+    name: payment-service-config
